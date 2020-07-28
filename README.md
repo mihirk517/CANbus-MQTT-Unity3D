@@ -5,5 +5,4 @@ Project Follows the Sequence:
 
 When Motor is Extended Position:
 ![](/MQTT-Unity.png)
-When Motor is Retracted
-![](/MQTT-Unity (2).png)
+
